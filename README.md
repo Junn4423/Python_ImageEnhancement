@@ -90,7 +90,7 @@ Tất cả các hàm xử lý đều nằm trong lớp `UngDungXuLyAnh` và hỗ
 
 ## Kết luận
 
-Ứng dụng **Python Image Enhancement** mang đến giải pháp hoàn chỉnh cho việc nâng cao chất lượng ảnh thông qua giao diện trực quan và các thuật toán mạnh mẽ. Thiết kế module rõ ràng giúp dễ dàng mở rộng và bảo trì.
+Ứng dụng **Python Image Enhancement** mang đến giải pháp hoàn chỉnh cho việc nâng cao chất lượng ảnh thông qua giao diện trực quan và các thuật toán mạnh mẽ. Thiết kế module rõ ràng giúp dễ dàng mở rộng và bảo trì
 
 ---
 DOCS: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Junn4423/Python_ImageEnhancement)
