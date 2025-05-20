@@ -1205,7 +1205,7 @@ Phím tắt:
 • CLAHE (Cân bằng Histogram Thích ứng có Giới hạn Độ tương phản)
 • Làm mờ Gaussian
 
-Để bắt đầu, hãy mở ảnh bằng nút 'Mở ảnh' hoặc Tệp > Mở ảnh."""
+Để bắt đầu, hãy mở ảnh bằng nút 'Mở ảnh' hoặc Tệp > Mở ảnh"""
         
         messagebox.showinfo("Chào mừng", welcome_text)
 
