@@ -1189,7 +1189,7 @@ Tính năng:
 6. Lưu kết quả bằng Tệp > Lưu ảnh đã xử lý
 
 Phím tắt:
-- Ctrl+O: Mở ảnh
+- Ctrl+O: Mở ảnh trong tệp
 - Ctrl+S: Lưu ảnh đã xử lý
 - Ctrl+Z: Hoàn tác
 - Ctrl+Y: Làm lại"""
