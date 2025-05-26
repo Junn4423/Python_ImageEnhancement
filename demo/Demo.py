@@ -1194,7 +1194,7 @@ Phím tắt:
 - Ctrl+Z: Hoàn tác
 - Ctrl+Y: Làm lại"""
         
-        messagebox.showinfo("Trợ giúp", help_text)
+        messagebox.showinfo("Trợ giúp!", help_text)
 
     def show_welcome_message(self):
         """Hiển thị thông báo chào mừng khi khởi động"""
