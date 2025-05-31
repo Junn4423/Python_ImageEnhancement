@@ -14,7 +14,7 @@ import time
 class UngDungXuLyAnh:
     def __init__(self, root):
         self.root = root
-        self.root.title("Ứng dụng Nâng cao Chất lượng Ảnh")
+        self.root.title("Ứng dụng Nâng cao Chất lượng Ảnh Từ Ảnh Cũ")
         self.root.geometry("1200x800")
         self.root.minsize(1000, 700)
         
