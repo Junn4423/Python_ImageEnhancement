@@ -489,7 +489,7 @@ class UngDungXuLyAnh:
             self.image_tabs.select(0)
             
         except Exception as e:
-            messagebox.showerror("Lỗi", f"Không thể mở ảnh này: {str(e)}")
+            messagebox.showerror("Lỗi", f"Không thể mở ảnh: {str(e)}")
 
     def display_image(self, img_array, canvas, is_processed=False):
         if img_array is None:
